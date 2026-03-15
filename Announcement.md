@@ -1,6 +1,6 @@
-## 1️⃣ Reddit Announcement (Tightened, Invitational, Non‑Performative)
+## 1️⃣ Announcement (Tightened, Invitational, Non‑Performative)
 
-This version is calibrated for Reddit norms:
+This version is calibrated for norms:
 - No hype
 - No sales tone
 - Clear intent

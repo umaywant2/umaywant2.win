@@ -6,6 +6,9 @@
 **Timeline:** Spring 2026 – December 2026  
 **Hosted Online:** dev.umaywant2.win
 
+
+<img width="256" height="512" alt="HDbESUpWkAApyDr" src="https://github.com/user-attachments/assets/99b9e717-ab57-482f-bbcc-646e45b41cd3" />
+
 ---
 
 ### 🧠 What Is This?
@@ -102,6 +105,8 @@ Participants are encouraged to define success on their own terms.
 - Recognition carries no monetary value  
 
 ---
+
+<img width="256" height="512" alt="HDdwS7IW0AABcas" src="https://github.com/user-attachments/assets/52f50d28-051f-4b0b-9430-92d799dd4bb2" />
 
 ### 🎉 Closing Note
 

@@ -3,7 +3,8 @@
   <!-- Root landing page -->
   <url>
     <loc>https://dev.umaywant2.win/</loc>
-    <priority>1.0</priority>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
   </url>
-
 </urlset>

@@ -1,10 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Root landing page -->
-  <url>
-    <loc>https://dev.umaywant2.win/</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
+<url><loc>https://dev.umaywant2.win/</loc><lastmod>2026-05-13</lastmod><changefreq>weekly</changefreq><priority>1.00</priority></url>
 </urlset>

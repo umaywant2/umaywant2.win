@@ -1,6 +1,6 @@
 # Triadic Tuned Interface Theory
 
-- [`Triadic_Tuned_Interface_Theory.json`](Triadic_Tuned_Interface_Theory.json) — Agentic module schema role assignments
+- [`Triadic_Tuned_Interface_Theory.json`](https://raw.githubusercontent.com/umaywant2/umaywant2.win/refs/heads/main/Triadic_Tuned_Interface_Theory.json) — Agentic module schema role assignments
 
 Ref: https://x.com/AmericanALCHMY/status/2061518817004605698
 
